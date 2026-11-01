@@ -1,0 +1,10 @@
+{
+  "description": "Tienda online de productos para mascotas que permite crear una cuenta, explorar categorías y gestionar el carrito para comprar de forma sencilla.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
